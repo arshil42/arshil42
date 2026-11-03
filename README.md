@@ -9,8 +9,6 @@ Interested in artificial intelligence and AI research.
 **Artificial Intelligence**  
 Machine Learning · Deep Learning · Transformers · Generative AI
 
-**Mathematics**  
-Information Theory · Game Theory
 
 **Programming**  
 Python
