@@ -11,4 +11,4 @@ Machine Learning · Deep Learning · Transformers · Generative AI
 
 
 **Programming**  
-Python
+Python, C++, JS
